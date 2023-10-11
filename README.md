@@ -1,1 +1,1 @@
-add background image for Quick Links , Announcements
+Add background image for Quick Links , Announcements.
